@@ -1,0 +1,6 @@
+place,toGo,coords
+home,"[""storeA"", ""storeB"", ""inter""]","(4.9, -12.3)"
+storeA,"[""home"", ""storeB""]","(4.6, 12.5)"
+storeB,"[""school"", ""inter""]","(12, 3.4)"
+school,"[""storeB"", ""inter""]","(5, 6.6)"
+inter,"[""school""]","(3, 0)"
